@@ -2,7 +2,7 @@
   "name": "sample-test-extension",
   "displayName": "sample-test-extension",
   "description": "just to test the working of an extension",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publisher": "sampleExtn",
   "repository": {
     "url": "https://github.com/madhan-kumar-revature/sample-extn"
